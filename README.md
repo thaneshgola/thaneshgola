@@ -9,7 +9,7 @@ I am a passionate B.Tech student specializing in Artificial Intelligence and Dat
 -   📊 I developed a Weather App using HTML, CSS, and JavaScript, utilizing the OpenWeather API for real-time weather information.<br>
 
 ## My Projects
-🌤️ Weather App: A dynamic web application that changes backgrounds based on current weather conditions. Check it out!
+🌤️ Weather App: A dynamic web application that changes backgrounds based on current weather conditions. [Check it out!](https://thaneshgola.github.io/Weather/)
 
 ## 🌱 Currently Exploring
 -   🤖 Diving into Machine Learning with Python, experimenting with libraries like TensorFlow and Scikit-learn.<br>
